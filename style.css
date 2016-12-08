@@ -1,0 +1,25 @@
+.parallax-container {
+      height: "1000px"; width: "500px"
+    }
+    h1,h2,h3{font-family: 'Patua One', cursive;text-align:center; }
+    h2{text-align:left; color:white;font-size: 60px; padding-top: 3px;padding-left: 10px;}
+    h5{text-align: center; padding-bottom: 12px; }
+    .title {font-family: 'Montserrat', sans-serif; text-align:left; color:white;font-size: 50px; padding-top: 3px;padding-left: 10px;}
+    h6 {text-align: center; color:white; ;font-family: 'Patua One', cursive;font-size: 65px; padding-top: 80px;}
+   iframe {padding-top: 70px;}
+   .text {font-family:'Akzidenz Grotesk' serif;}
+ .hero{background-image:url(http://wwwassets.rand.org/content/rand/pubs/monographs/MG1136/jcr:content/par/teaser.aspectfit.0x1200.jpg/1395016927371.jpg);
+  background-size:cover;
+  position:relative;
+  height:100vh; color: white;
+}
+h3{text-align: left;font-size: 15px; padding-top:610px; padding-left:1200px; color:#1b1d21;}
+blockquote {
+    font-size: 50px;}
+}
+@media screen and (max-width:680px){
+  .text {font-size: 0.8rem}
+}
+@media screen and (max-width:540px){
+  .text {font-size: 0.7rem}
+}}
